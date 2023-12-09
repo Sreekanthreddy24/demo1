@@ -16,7 +16,7 @@ with open(file,'r') as file:
                 char_count[i] += 1
             else:
                 char_count[i] = 1
-
+# edit by sreekanth
 print(count)
 print(char_count)
 #

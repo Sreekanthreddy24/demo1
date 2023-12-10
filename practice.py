@@ -13,3 +13,5 @@ product_names = driver.find_elements_by_xpath("//div[@class='a-section octopus-d
 print("Today's Hot Deals:")
 for product_name in product_names:
     print(product_name.text)
+
+#     hifabvd
